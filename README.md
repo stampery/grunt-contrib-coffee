@@ -1,7 +1,7 @@
-# grunt-contrib-coffee [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-contrib-coffee.png?branch=master)](http://travis-ci.org/gruntjs/grunt-contrib-coffee)
+> Compile IcedCoffeeScript files to JavaScript.
 
-> Compile CoffeeScript files to JavaScript.
-
+## [IcedCoffee](http://maxtaco.github.io/coffee-script/)
+Direct 'drop-in' replacement for 'grunt-contrib-coffee' albeit using IcedCoffee 'defer' and 'await' keywords. Greatly reduce complexity of writing asynchronous ops in coffeescript.  
 
 
 ## Getting Started

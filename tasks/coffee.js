@@ -164,13 +164,13 @@ module.exports = function(grunt) {
     }
 
     try {
-      return require('coffee-script').compile(code, options);
+      return require('iced-coffee-script').compile(code, options);
     } catch (e) {
       if (e.location == null ||
           e.location.first_column == null ||
           e.location.first_line == null) {
         grunt.log.error('Got an unexpected exception ' +
-                        'from the coffee-script compiler. ' + 
+                        'from the iced-coffee-script compiler. ' + 
                         'The original exception was: ' +
                         e);
         grunt.log.error('(The coffee-script compiler should not raise *unexpected* exceptions. ' +

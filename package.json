@@ -1,18 +1,18 @@
 {
-  "name": "grunt-contrib-coffee",
-  "description": "Compile CoffeeScript files to JavaScript.",
+  "name": "grunt-iced-coffee",
+  "description": "Compile IcedCoffeeScript files to JavaScript.",
   "version": "0.7.0",
-  "homepage": "https://github.com/gruntjs/grunt-contrib-coffee",
+  "homepage": "https://github.com/tukutela/grunt-contrib-coffee",
   "author": {
-    "name": "Grunt Team",
+    "name": "Mark Walker",
     "url": "http://gruntjs.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-contrib-coffee.git"
+    "url": "https://github.com/tukutela/grunt-contrib-coffee"
   },
   "bugs": {
-    "url": "https://github.com/gruntjs/grunt-contrib-coffee/issues"
+    "url": "https://github.com/tukutela/grunt-contrib-coffee/issues"
   },
   "licenses": [
     {
