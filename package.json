@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "coffee-script": "~1.6.2"
+    "iced-coffee-script": "git://github.com/maxtaco/coffee-script.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.2.0",
