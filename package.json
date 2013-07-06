@@ -1,7 +1,7 @@
 {
   "name": "grunt-iced-coffee",
   "description": "Compile IcedCoffeeScript files to JavaScript.",
-  "version": "0.7.0",
+  "version": "0.7.0-a",
   "homepage": "https://github.com/tukutela/grunt-contrib-coffee",
   "author": {
     "name": "Mark Walker",
